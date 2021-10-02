@@ -11,7 +11,7 @@ Users should be able to:
 ![](images/Four-card-feature-section.png)
 
 ### Links
-- Live Site URL: [Four card feature section](https://hamed3958.github.io/-Four-card-feature-section/)
+- Live Site URL: [Four card feature section](https://hamed3958.github.io/Four-card-feature-section/)
 
 
 ### Built with
