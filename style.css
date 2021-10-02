@@ -152,7 +152,7 @@ footer {
 
 /*********************************media query*********************************/
 
-@media screen and (min-width: 375px) and (max-width: 1110px) {
+@media screen and (max-width: 1110px) {
   body {
     display: flex !important;
     flex-flow: column wrap !important;
