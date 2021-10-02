@@ -34,7 +34,8 @@ html {
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
-  align-content: space-between;
+  align-content: space-around;
+  align-items: center;
 }
 
 body {
@@ -152,13 +153,13 @@ footer {
 
 /*********************************media query*********************************/
 
-@media screen and (max-width: 1110px) {
-  body {
-    display: flex !important;
+@media screen and (max-width: 1120px) {
+  /* body {
+    display: flex ;
     flex-flow: column wrap !important;
     justify-content: center;
     align-items: center;
-  }
+  } */
 
   .top {
     height: 161px;
